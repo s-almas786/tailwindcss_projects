@@ -1,4 +1,4 @@
-# ReactJS Projects
+# Tailwind CSS Projects
 
 Hello there! In this repository I will add beautiful and respomsive projects using Tailwind CSS.
 
